@@ -1,25 +1,25 @@
 {
   "main": {
-    "name": "Angel mascaró",
-    "occupation": "Software developer",
-    "description": "",
+    "name": "John Doe",
+    "occupation": "Computer engineer",
+    "description": "This is the description",
     "image": "profile.png",
     "bio": "Set up your description",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "john@doe.com",
     "phone": "999 999 999",
     "address": {
-      "street": "Canet d'Adri",
-      "city": "Girona,",
-      "state": "Catalunya",
-      "zip": "17199"
+      "street": "My street",
+      "city": "My city",
+      "state": "My state",
+      "zip": "99999"
     },
     "website": "http://my.website.com",
     "resumedownload": "http://my.resume.pdf.com",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/angel-mascar%C3%B3-arcusa-8a146622b/",
+        "url": "#",
         "className": "fa fa-linkedin"
       },
       {
@@ -51,100 +51,61 @@
   },
   "resume": {
     "skillmessage": "Check my skills!",
+    "scoresmessage": "Check my degree scores!",
     "education": [
       {
-        "school": "Institut Montilivi - Girona",
-        "degree": "Vocational Institute",
-        "graduated": "2022 - 2023",
-        "description": "Specialization in Cybersecurity in information technology environments"
+        "school": "Lorem ipsum",
+        "degree": "Higher Polytechnic School",
+        "graduated": "2015 - 2020",
+        "description": "Studies description"
       },
       {
-        "school": "Institut Montilivi - Girona",
+        "school": "Lorem ipsum",
         "degree": "Vocational Institute",
-        "graduated": "2020 - 2022",
-        "description": "Higher degree training cycle in web application development (DAW)"
+        "graduated": "2013 - 2015",
+        "description": "Studies description"
+      },
+      {
+        "school": "Lorem ipsum",
+        "degree": "Online Study Center",
+        "graduated": "6 weeks in 2014",
+        "description": "Studies description"
       }
     ],
     "work": [
       {
-        "company": "ID-WASTE",
+        "company": "Lorem ipsum",
+        "title": "Full stack develooper",
+        "years": "September 2021 - Actually",
+        "description": "Job description"
+      },
+      {
+        "company": "Lorem ipsum",
         "title": "Full-Stack developer",
-        "years": "May 2023 - Actually",
-        "description": "Job description"
-      },
-      {
-        "company": "iMàtica",
-        "title": "Web developer",
-        "years": "Mar 2023 - May 2023",
-        "description": "Job description"
-      },
-      {
-        "company": "Workana",
-        "title": "Web developer - Freelancer",
-        "years": "Aug 2022 - May 2023",
-        "description": "Job description"
-      },
-      {
-        "company": "FDS-DXC Technology",
-        "title": "Web developer",
-        "years": "Apr 2022 - Jul 2022",
-        "description": "Job description"
-      },
-      {
-        "company": "Arconvert-Manter",
-        "title": "Factory worker",
-        "years": "Apr 2019 - Jul 2019",
-        "description": "Job description"
-      },
-      {
-        "company": "Protein",
-        "title": "Factory worker",
-        "years": "Aug 2018 - Mar 2019",
-        "description": "Job description"
-      },
-      {
-        "company": "Hotel Costabella",
-        "title": "Chef",
-        "years": "Mar 2016 - Feb 2018",
+        "years": "December 2020 - Actually",
         "description": "Job description"
       }
     ],
     "skills": [
       {
-        "name": "PHP",
-        "level": "90%"
-      },
-      {
         "name": "Javascript",
         "level": "95%"
       },
       {
-        "name": "Typescript",
-        "level": "85%"
-      },
-      {
-        "name": "Vue.Js",
+        "name": "Docker",
         "level": "90%"
       },
       {
-        "name": "React.Js",
-        "level": "80%"
+        "name": "Java",
+        "level": "90%"
       },
       {
-        "name": "Node.Js",
-        "level": "80%"
+        "name": "BASH",
+        "level": "90%"
       },
       {
         "name": "Python",
         "level": "80%"
-      },
-      {
-        "name": "Sql",
-        "level": "85%"
-      },
-      {
-        "name": "Docker",
-        "level": "75%"
       }
     ],
     "scores": [
